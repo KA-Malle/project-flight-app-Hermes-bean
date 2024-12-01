@@ -1,0 +1,49 @@
+departure_id;departure;arrivel_id;arrivel_city;max_capacity;actual_capacity;date_of_flight;average_cost;type_of_flight
+1;New York;2;London;250;200;2024-03-05;600;International
+3;Los Angeles;4;Paris;300;280;2024-03-06;750;International
+2;London;5;Beijing;350;320;2024-03-07;850;International
+6;Tokyo;7;Sydney;200;180;2024-03-08;500;International
+8;Dubai;9;Mumbai;180;160;2024-03-09;400;International
+1;New York;10;Mexico City;200;180;2024-03-10;350;Domestic
+3;Los Angeles;1;New York;300;280;2024-03-11;400;Domestic
+11;Chicago;12;Miami;250;230;2024-03-12;300;Domestic
+2;London;4;Paris;150;130;2024-03-13;200;Domestic
+7;Sydney;13;Auckland;180;160;2024-03-14;250;Domestic
+14;Hong Kong;15;Seoul;200;180;2024-03-15;450;International
+16;Berlin;17;Rome;180;160;2024-03-16;300;International
+6;Tokyo;5;Beijing;250;230;2024-03-17;600;International
+1;New York;3;Los Angeles;350;320;2024-03-18;700;International
+4;Paris;18;Barcelona;200;180;2024-03-19;400;International
+2;London;8;Dubai;300;280;2024-03-20;800;International
+10;Mexico City;19;Cancun;180;160;2024-03-21;200;Domestic
+12;Miami;11;Chicago;250;230;2024-03-22;350;Domestic
+1;New York;12;Miami;300;280;2024-03-23;400;Domestic
+6;Tokyo;14;Hong Kong;200;180;2024-03-24;550;International
+3;Los Angeles;20;San Francisco;180;160;2024-03-25;200;Domestic
+7;Sydney;21;Melbourne;250;230;2024-03-26;300;Domestic
+4;Paris;22;Milan;200;180;2024-03-27;450;International
+2;London;23;Madrid;300;280;2024-03-28;700;International
+12;Miami;24;Orlando;150;130;2024-03-29;150;Domestic
+11;Chicago;1;New York;250;230;2024-03-30;350;Domestic
+5;Beijing;25;Shanghai;200;180;2024-03-31;400;International
+3;Los Angeles;11;Chicago;300;280;2024-04-01;500;Domestic
+21;Sydney;26;Brisbane;180;160;2024-04-02;200;Domestic
+18;Barcelona;23;Madrid;200;180;2024-04-03;300;Domestic
+8;Dubai;27;Istanbul;250;230;2024-04-04;600;International
+4;Paris;2;London;300;280;2024-04-05;750;International
+10;Mexico City;28;Guadalajara;150;130;2024-04-06;200;Domestic
+12;Miami;29;Atlanta;250;230;2024-04-07;350;Domestic
+25;Beijing;15;Seoul;180;160;2024-04-08;450;International
+6;Tokyo;30;Singapore;300;280;2024-04-09;800;International
+1;New York;31;Washington DC;200;180;2024-04-10;250;Domestic
+3;Los Angeles;32;Las Vegas;250;230;2024-04-11;300;Domestic
+2;London;33;Amsterdam;180;160;2024-04-12;400;International
+4;Paris;16;Berlin;300;280;2024-04-13;700;International
+21;Sydney;34;Perth;200;180;2024-04-14;550;Domestic
+14;Hong Kong;6;Tokyo;250;230;2024-04-15;650;International
+12;Miami;35;Tampa;150;130;2024-04-16;200;Domestic
+11;Chicago;36;Dallas;200;180;2024-04-17;300;Domestic
+8;Dubai;37;Riyadh;300;280;2024-04-18;600;International
+16;Berlin;38;Vienna;180;160;2024-04-19;400;International
+1;New York;39;Boston;250;230;2024-04-20;350;Domestic
+3;Los Angeles;40;San Diego;200;180;2024-04-21;250;Domestic
